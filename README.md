@@ -11,11 +11,11 @@
 
 - 👯 Busco colaborar en **diferentes áreas de sistemas añadiendo conocimientos como programador.**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/saakura14] (https://github.com/saakura14)
+- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/saakura14]
 
 - 📫 Cómo contactarme **valeeria.gil@gmail.com**
 
-- 📄 Conoce mis experiencias [https://www.linkedin.com/in/valeeria-gil/](https://www.linkedin. com/in/valeeria-gil/)
+- 📄 Conoce mis experiencias [https://www.linkedin.com/in/valeeria-gil/]
 
 - ⚡ Dato curioso **De mi personalidad quiero destacar mi aptitud para las relaciones interpersonales y el trabajo en equipo. Predisposición para la consecución de objetivos, excelente presencia y trato, capacidad de trabajo y dinamismo. En la certeza de que una entrevista personal será de gran provecho, me pongo a su disposición, esperando su contacto. Quiero adquirir nuevos conocimientos y desarrollarme, poniendo toda mi experiencia, responsabilidad y profesionalidad en la consecución de objetivos tanto a nivel laboral como personal.**
 
