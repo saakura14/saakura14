@@ -1,20 +1,20 @@
-<h1 align="center">Hola 👋, ¡soy Valeria!</h1>
+<h1 align="center">Hi 👋, ¡soy Valeria!</h1>
 <h3 align="center">Programming student</h3>
 
 
-- 🔭 Actualmente estoy trabajando en *Swiss medical Group*
+- 🔭 I’m currently working on *Swiss medical Group*
 
-- 🌱 Actualmente estoy aprendiendo *Python, nodo,C# y más*
+- 🌱 I’m currently learning *Python, nodo,C# y más*
 
-- 👯 Busco colaborar en *different areas of systems contributing my knowledge.*
+- 👯 I’m looking to collaborate on *different areas of systems contributing my knowledge.*
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/saakura14]
+- 👨‍💻 All of my projects are available at [https://github.com/saakura14]
 
-- 📫 Cómo contactarme *valeeria.gil@gmail.com*
+- 📫 How to reach me *valeeria.gil@gmail.com*
 
-- 📄 Conoce mis experiencias [https://www.linkedin.com/in/valeeria-gil/]
+- 📄 Know about my experiences [https://www.linkedin.com/in/valeeria-gil/]
 
-- ⚡ Dato curioso *I am self-taught, I am studying the last year of the technical degree in programming at the UTN. I want to acquire new knowledge and develop myself, putting all my experience, responsibility and professionalism into achieving goals both at work and personally.*
+- ⚡ Fun fact *I am self-taught, I am studying the last year of the technical degree in programming at the UTN. I want to acquire new knowledge and develop myself, putting all my experience, responsibility and professionalism into achieving goals both at work and personally.*
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align ="izquierda">
