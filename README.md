@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on *Swiss medical Group*
 
-- 🌱 I’m currently learning *Python, nodejs ,C# y más*
+- 🌱 I’m currently learning *Python, nodejs ,C# and more.*
 
 - 👯 I’m looking to collaborate on *different areas of systems contributing my knowledge.*
 
