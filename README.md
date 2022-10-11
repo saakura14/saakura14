@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, ¡soy Valeria!</h1>
+<h1 align="center">Hi 👋, ¡I'm Valeria!</h1>
 <h3 align="center">Programming student</h3>
 
 
@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact *I am self-taught, I am studying the last year of the technical degree in programming at the UTN. I want to acquire new knowledge and develop myself, putting all my experience, responsibility and professionalism into achieving goals both at work and personally.*
 
-<h3 align="left">Conecta conmigo:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align ="izquierda">
     <a href="https://www.linkedin.com/en/valeeria-gil/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/valeeria-gil/" heigh="30" width="40" />
@@ -29,7 +29,7 @@
     </a>
 </p>
 
-<h3 align="left">Idiomas y herramientas:</h3>
+<h3 align="left">Languages and tools:</h3>
 <p align="left"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
