@@ -1,9 +1,6 @@
 <h1 align="center">Hola 👋, ¡soy Valeria!</h1>
 <h3 align="center">Una desarrolladora apasionada de Argentina</h3>
 
-<p align="left"> <img src=" https://komarev.com/ghpvc/?username=saakura14&label=Profile%20views&color=0e75b6&style=flat" alt="saakura14" /> </p>
-
-<p align="left"> <a href="https:/ /github.com/ryo-ma/github-profile-trofeo"><img src="https://github-perfil-trofeo.vercel.app/?username=saakura14" alt="saakura14" /></a > </p>
 
 - 🔭 Actualmente estoy trabajando en **Swiss medical Group**
 
