@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, ¡I'm Valeria!</h1>
-<h3 align="center">Programming student</h3>
+<h3 align="center">Systems student</h3>
 
 
 - 🔭 I’m currently working on *Swiss medical Group*
 
-- 🌱 I’m currently learning *Python, nodo,C# y más*
+- 🌱 I’m currently learning *Python, nodejs ,C# y más*
 
 - 👯 I’m looking to collaborate on *different areas of systems contributing my knowledge.*
 
