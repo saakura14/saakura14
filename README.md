@@ -16,13 +16,13 @@
 
 - 📄 Conoce mis experiencias [https://www.linkedin.com/in/valeeria-gil/]
 
-- ⚡ Dato curioso **Soy autodidacta, estoy curasando el ultimo año de la tecnicatura en programacion en la UTN. Quiero adquirir nuevos conocimientos y desarrollarme, poniendo toda mi experiencia, responsabilidad y profesionalidad en la consecución de objetivos tanto a nivel laboral como personal.**
+- ⚡ Dato curioso **Soy autodidacta, estoy cursando el ultimo año de la tecnicatura en programacion en la UTN. Quiero adquirir nuevos conocimientos y desarrollarme, poniendo toda mi experiencia, responsabilidad y profesionalidad en la consecución de objetivos tanto a nivel laboral como personal.**
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align ="izquierda">
 <a href="https://linkedin.com/en/https://www.linkedin.com/en/valeeria-gil/" target="blank"><img align="center" src="https: //raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in /valeeria-gil/" altura="30" ancho="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/valeria.gil.14 /" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook. svg" alt="https://www.facebook.com/valeria.gil.14/" altura="30" ancho="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/vaale_valeeria/" target="blank"><img align="center" src="https://raw.githubusercontent. com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vaale_valeeria/" height="30" width=" 40" /></a>
+<a href="https://fb.com/valeria.gil.14 /" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook. svg" alt="https://www.facebook.com/valeria.gil.14/" altura="30" ancho="40" /></a>
+<a href="https://instagram.com/vaale_valeeria/" target="blank"><img align="center" src="https://raw.githubusercontent. com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vaale_valeeria/" height="30" width=" 40" /></a>
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
