@@ -14,7 +14,7 @@
 
 - 📄 Conoce mis experiencias [https://www.linkedin.com/in/valeeria-gil/]
 
-- ⚡ Dato curioso *Soy autodidacta, estoy curasando el ultimo año de la tecnicatura en programacion en la UTN. Quiero adquirir nuevos conocimientos y desarrollarme, poniendo toda mi experiencia, responsabilidad y profesionalidad en la consecución de objetivos tanto a nivel laboral como personal.*
+- ⚡ Dato curioso *Soy autodidacta, estoy cursando el ultimo año de la tecnicatura en programacion en la UTN. Quiero adquirir nuevos conocimientos y desarrollarme, poniendo toda mi experiencia, responsabilidad y profesionalidad en la consecución de objetivos tanto a nivel laboral como personal.*
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align ="izquierda">
