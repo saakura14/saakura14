@@ -2,6 +2,8 @@
 <h3 align="center">Una desarrolladora apasionada de Argentina</h3>
 
 
+
+
 - 🔭 Actualmente estoy trabajando en **Swiss medical Group**
 
 - 🌱 Actualmente estoy aprendiendo **Python, nodo,C# y más**
@@ -14,7 +16,7 @@
 
 - 📄 Conoce mis experiencias [https://www.linkedin.com/in/valeeria-gil/]
 
-- ⚡ Dato curioso **De mi personalidad quiero destacar mi aptitud para las relaciones interpersonales y el trabajo en equipo. Predisposición para la consecución de objetivos, excelente presencia y trato, capacidad de trabajo y dinamismo. En la certeza de que una entrevista personal será de gran provecho, me pongo a su disposición, esperando su contacto. Quiero adquirir nuevos conocimientos y desarrollarme, poniendo toda mi experiencia, responsabilidad y profesionalidad en la consecución de objetivos tanto a nivel laboral como personal.**
+- ⚡ Dato curioso **Soy autodidacta, estoy curasando el ultimo año de la tecnicatura en programacion en la UTN. Quiero adquirir nuevos conocimientos y desarrollarme, poniendo toda mi experiencia, responsabilidad y profesionalidad en la consecución de objetivos tanto a nivel laboral como personal.**
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align ="izquierda">
